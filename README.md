@@ -48,3 +48,5 @@ cd fundrive-dev
 - 🏠 组织主页：<https://github.com/farfarfun-drive>
 - 🏠 上级组织：<https://github.com/farfarfun>
 - 📧 联系：farfarfun@qq.com
+
+本项目基于 [MIT](LICENSE) 协议开源。
